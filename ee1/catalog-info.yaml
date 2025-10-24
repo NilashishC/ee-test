@@ -10,7 +10,7 @@ metadata:
     - playbook
     - collection
   annotations:
-    backstage.io/techdocs-ref: ee1_README.md
+    backstage.io/techdocs-ref: url:https://github.com/NilashishC/ee-test/blob/main/ee1/ee1_README.md
     github.com/project-slug: https://github.com/NilashishC/ee-test
 spec:
   system: ansible
