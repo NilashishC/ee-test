@@ -1,0 +1,20 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ee1
+  title: Custom Execution Environment 2
+  description: Custom Execution Environment 2 generated from portal
+  tags:
+    - ansible
+    - playbook
+    - collection
+    - custom
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: https://github.com/NilashishC/ee-test
+spec:
+  system: ansible
+  owner: ansible-team
+  type: execution-environment
+  lifecycle: production
