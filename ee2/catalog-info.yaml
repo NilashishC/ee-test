@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ee1
+  name: ee2
   title: Custom Execution Environment 2
   description: Custom Execution Environment 2 generated from portal
   tags:
