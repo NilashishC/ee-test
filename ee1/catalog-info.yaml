@@ -10,10 +10,10 @@ metadata:
     - playbook
     - collection
   annotations:
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:./
     github.com/project-slug: https://github.com/NilashishC/ee-test
 spec:
   system: ansible
-  owner: admin
+  owner: ansible-team
   type: execution-environment
   lifecycle: production
