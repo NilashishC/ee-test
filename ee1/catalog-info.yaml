@@ -14,6 +14,6 @@ metadata:
     github.com/project-slug: https://github.com/NilashishC/ee-test
 spec:
   system: ansible
-  owner: ansible-team
+  owner: admin
   type: execution-environment
   lifecycle: production
